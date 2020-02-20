@@ -1,0 +1,17 @@
+[
+  {
+    "_class": "com.ouhamza.populator.entities.Person",
+    "name": "Zanymax",
+    "email": "Kraggle"
+  },
+  {
+    "_class": "com.ouhamza.populator.entities.Person",
+    "name": "Zoarere",
+    "email": "Valreda"
+  },
+  {
+    "_class": "com.ouhamza.populator.entities.Person",
+    "name": "Cablam",
+    "email": "Zentry"
+  }
+]
